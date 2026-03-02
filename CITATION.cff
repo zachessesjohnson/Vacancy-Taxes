@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Vacancy-Taxes"
+abstract: >
+  Stata code and data for analyzing the effect of Washington, D.C.'s vacancy
+  tax on local housing prices using the Synthetic Control Method and
+  Interrupted Time Series Analysis.
+authors:
+  - alias: zachessesjohnson
+    given-names: Zachary
+    family-names: Johnson
+repository-code: "https://github.com/zachessesjohnson/Vacancy-Taxes"
+url: "https://github.com/zachessesjohnson/Vacancy-Taxes"
+date-released: "2022-01-01"
+keywords:
+  - vacancy tax
+  - housing prices
+  - synthetic control
+  - interrupted time series
+  - Stata
+  - public finance
+  - Washington DC
